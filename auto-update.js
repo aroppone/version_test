@@ -1,4 +1,4 @@
-var autoupdater = require('./lib/auto-updater.js')({
+var autoupdater = require('auto-updater')({
         pathToJson: '',
         async: true,
         silent: false,
