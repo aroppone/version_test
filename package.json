@@ -1,0 +1,7 @@
+{
+	"version":"0.0.1",
+	"auto-updater": {
+    	"repo":"/aroppone/version_test",
+    	"branch":"master"
+	}
+}
