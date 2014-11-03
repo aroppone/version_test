@@ -1,5 +1,5 @@
 
-VERSION = 3
+VERSION = 4
 
 lineWrite = () ->
 	console.log "Version: ", VERSION
